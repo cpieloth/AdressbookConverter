@@ -1,0 +1,128 @@
+"Group"	"Group"
+"Family Name"	"Family Name"
+First Name	First Name
+Display Name	Display Name
+Nickname	Nickname
+Reading Name(Family Name)	Reading Name(Family Name)
+Reading Name(First Name)	Reading Name(First Name)
+Job title	Job title
+Company Name	Company Name
+Phone Number1(Type)	Phone Number1(Type)
+Phone Number1(Number)	Phone Number1(Number)
+Phone Number1(Speed Dial)	Phone Number1(Speed Dial)
+Phone Number2(Type)	Phone Number2(Type)
+Phone Number2(Number)	Phone Number2(Number)
+Phone Number2(Speed Dial)	Phone Number2(Speed Dial)
+Phone Number3(Type)	Phone Number3(Type)
+Phone Number3(Number)	Phone Number3(Number)
+Phone Number3(Speed Dial)	Phone Number3(Speed Dial)
+Phone Number4(Type)	Phone Number4(Type)
+Phone Number4(Number)	Phone Number4(Number)
+Phone Number4(Speed Dial)	Phone Number4(Speed Dial)
+Phone Number5(Type)	Phone Number5(Type)
+Phone Number5(Number)	Phone Number5(Number)
+Phone Number5(Speed Dial)	Phone Number5(Speed Dial)
+Phone Number6(Type)	Phone Number6(Type)
+Phone Number6(Number)	Phone Number6(Number)
+Phone Number6(Speed Dial)	Phone Number6(Speed Dial)
+Phone Number7(Type)	Phone Number7(Type)
+Phone Number7(Number)	Phone Number7(Number)
+Phone Number7(Speed Dial)	Phone Number7(Speed Dial)
+Phone Number8(Type)	Phone Number8(Type)
+Phone Number8(Number)	Phone Number8(Number)
+Phone Number8(Speed Dial)	Phone Number8(Speed Dial)
+Phone Number9(Type)	Phone Number9(Type)
+Phone Number9(Number)	Phone Number9(Number)
+Phone Number9(Speed Dial)	Phone Number9(Speed Dial)
+Phone Number10(Type)	Phone Number10(Type)
+Phone Number10(Number)	Phone Number10(Number)
+Phone Number10(Speed Dial)	Phone Number10(Speed Dial)
+Phone Number11(Type)	Phone Number11(Type)
+Phone Number11(Number)	Phone Number11(Number)
+Phone Number11(Speed Dial)	Phone Number11(Speed Dial)
+Phone Number12(Type)	Phone Number12(Type)
+Phone Number12(Number)	Phone Number12(Number)
+Phone Number12(Speed Dial)	Phone Number12(Speed Dial)
+Phone Number13(Type)	Phone Number13(Type)
+Phone Number13(Number)	Phone Number13(Number)
+Phone Number13(Speed Dial)	Phone Number13(Speed Dial)
+Phone Number14(Type)	Phone Number14(Type)
+Phone Number14(Number)	Phone Number14(Number)
+Phone Number14(Speed Dial)	Phone Number14(Speed Dial)
+Email1(Type)	Email1(Type)
+Email1(Address)	Email1(Address)
+Email2(Type)	Email2(Type)
+Email2(Address)	Email2(Address)
+Email3(Type)	Email3(Type)
+Email3(Address)	Email3(Address)
+Homepage1(Type)	Homepage1(Type)
+Homepage1(Address)	Homepage1(Address)
+Homepage2(Type)	Homepage2(Type)
+Homepage2(Address)	Homepage2(Address)
+Homepage3(Type)	Homepage3(Type)
+Homepage3(Address)	Homepage3(Address)
+Address1(Home/Office)	Address1(Home/Office)
+Address1(Domestic/Overseas)	Address1(Domestic/Overseas)
+Address1(PO Box)	Address1(PO Box)
+Address1(Extended Address)	Address1(Extended Address)
+Address1(Street)	Address1(Street)
+Address1(Locality)	Address1(Locality)
+Address1(Region)	Address1(Region)
+Address1(Country)	Address1(Country)
+Address1(Zip)	Address1(Zip)
+Address2(Home/Office)	Address2(Home/Office)
+Address2(Domestic/Overseas)	Address2(Domestic/Overseas)
+Address2(PO Box)	Address2(PO Box)
+Address2(Extended Address)	Address2(Extended Address)
+Address2(Street)	Address2(Street)
+Address2(Locality)	Address2(Locality)
+Address2(Region)	Address2(Region)
+Address2(Country)	Address2(Country)
+Address2(Zip)	Address2(Zip)
+Address3(Home/Office)	Address3(Home/Office)
+Address3(Domestic/Overseas)	Address3(Domestic/Overseas)
+Address3(PO Box)	Address3(PO Box)
+Address3(Extended Address)	Address3(Extended Address)
+Address3(Street)	Address3(Street)
+Address3(Locality)	Address3(Locality)
+Address3(Region)	Address3(Region)
+Address3(Country)	Address3(Country)
+Address3(Zip)	Address3(Zip)
+Birthday(Date)	Birthday(Date)
+Birthday(Solar/Lunar)	Birthday(Solar/Lunar)
+Anniversary(Date)	Anniversary(Date)
+Anniversary(Solar/Lunar)	Anniversary(Solar/Lunar)
+Blood Type	Blood Type
+Hobby	Hobby
+Image File	Image File
+Memo	Memo
+Voice Recognition	Voice Recognition
+Two-Phone Mode	Two-Phone Mode
+Title	Title
+Suffix	Suffix
+Middle Name	Middle Name
+Spouse	Spouse
+Children	Children
+Department	Department
+Assistant Name	Assistant Name
+Assistant Telephone	Assistant Telephone
+IM1(Type)	IM1(Type)
+IM1	IM1
+IM2(Type)	IM2(Type)
+IM2	IM2
+IM3(Type)	IM3(Type)
+IM3	IM3
+IM4(Type)	IM4(Type)
+IM4	IM4
+IM5(Type)	IM5(Type)
+IM5	IM5
+IM6(Type)	IM6(Type)
+IM6	IM6
+IM7(Type)	IM7(Type)
+IM7	IM7
+IM8(Type)	IM8(Type)
+IM8	IM8
+IM9(Type)	IM9(Type)
+IM9	IM9
+IM10(Type)	IM10(Type)
+IM10	IM10
